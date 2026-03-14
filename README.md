@@ -29,16 +29,16 @@
 ## 开发等项目
 我是使用手机端的ZeroTermux进行开发,下载速度过慢请切换为清华源
 
-1. 更新软件包
+1. 更新软件包  
 `pkg update && pkg upgrade -y`
 
-2. 安装Node.js
+2. 安装Node.js  
 `pkg install nodejs`
 
-3. 安装Python
+3. 安装Python  
 `pkg install python`
 
-4. 安装iflow(更多教程请寻找资料,终端输入"iflow",全局安装)
+4. 安装iflow(更多教程请寻找资料,终端输入"iflow",全局安装)  
 `npm install -g @iflow-ai/iflow-cli@latest`
 
 5. 安装vite(全局安装)
@@ -46,14 +46,14 @@
 
 6. 下载这个项目的源代码(或releases)然后进入
 
-7. 初始化项目
+7. 初始化项目  
 `npm install`
 *~~精彩的马上来了~~*
 
-8. 开发预览
+8. 开发预览  
 `npm run dev`
 
-9. 启动后端
+9. 启动后端 
 `php -S localhost:8000`
 > 如果没有的话请执行此条命令`pkg install php`
 
