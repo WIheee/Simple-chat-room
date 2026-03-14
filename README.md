@@ -41,19 +41,19 @@
 4. 安装iflow(更多教程请寻找资料,终端输入"iflow",全局安装)  
 `npm install -g @iflow-ai/iflow-cli@latest`
 
-5. 安装vite(全局安装)
+5. 安装vite(全局安装)  
 `npm install -g vite`
 
 6. 下载这个项目的源代码(或releases)然后进入
 
 7. 初始化项目  
-`npm install`
+`npm install`  
 *~~精彩的马上来了~~*
 
 8. 开发预览  
 `npm run dev`
 
-9. 启动后端 
+9. 启动后端  
 `php -S localhost:8000`
 > 如果没有的话请执行此条命令`pkg install php`
 
