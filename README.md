@@ -1,7 +1,7 @@
 # Simple Chat Room
 
 一个基于Vue3.js与php和vite的聊天室
-*~~几乎全是由AI(iflow)编写的~~*
+	*~~几乎全是由AI(iflow)编写的~~*
 -   **UI 灵感**：界面风格参考了 Discord
 -   **免责**：本项目为**非官方 非商业**项目，与 Discord Inc. 无关,所有相关商标及版权归属其各自所有者
 -   **侵权请联系**：若无意中侵犯了您的权益 请通过 bywihee [at] outlook.com 联系我,我将立即删除相关内容
