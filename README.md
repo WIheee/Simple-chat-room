@@ -1,5 +1,9 @@
 # Simple Chat Room
 
+> [!WARNING]
+> iflow请停止使用,iflow己关闭服务
+
+
 一个基于Vue3.js与php和vite的聊天室,没有使用数据库使用了json  
 *~~几乎全是由AI(iflow)编写的~~*
 -   **UI 灵感**：界面风格参考了 Discord
